@@ -9,12 +9,15 @@ It is a crowdfunding campaign project to help Louise raise fund for the play 'Fe
 ### Analysis of Outcomes Based on Launch Date
 For the theater category:
 The number of successful campaign outcomes is 839 out of 1369 total campaigns.
+
 ![image](https://user-images.githubusercontent.com/111020934/185208826-66c2b7e6-34b9-4f5b-bed0-f6a9375b996e.png)
 
 The number of failed campaign outcomes is 493 out of 1369 total campaigns.
+
 ![image](https://user-images.githubusercontent.com/111020934/185209224-531c87c2-9627-422e-a889-1ad1f6a0e927.png)
 
 The number of campaigns cancelled is 37 out of the 1369 total campaigns.
+
 ![image](https://user-images.githubusercontent.com/111020934/185209517-2c92178a-ba41-4084-981a-224a3fe870ba.png)
 
 Most of the campaigns held in the months of May, June and July have been successful.
