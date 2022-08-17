@@ -21,6 +21,7 @@ The number of campaigns cancelled is 37 out of the 1369 total campaigns.
 ![image](https://user-images.githubusercontent.com/111020934/185209517-2c92178a-ba41-4084-981a-224a3fe870ba.png)
 
 Most of the campaigns held in the months of May, June and July have been successful.
+
 ![image](https://user-images.githubusercontent.com/111020934/185212235-3f8d1c34-75f7-4ddc-a8bb-83fc363ec800.png)
 
 Louise can hold a campaign for a successful outcome during the months of May, June or July.
@@ -28,10 +29,12 @@ Louise can hold a campaign for a successful outcome during the months of May, Ju
 ### Analysis of Outcomes Based on Goals
 Out of 186 total projects held with a goal of less than $1000, 141 campaigns have had a successful outcome. 
 76% of the total campaigns held with this goal have been successful.
+
 ![image](https://user-images.githubusercontent.com/111020934/185214355-49f543fd-8459-4af7-a716-20b3cfece828.png)
 
 Out of the 534 total projects held with a goal of $1000 to $5000, 388 campaigns have had a successful outcome.
 73% of the total  campaigns held with this goal have been successful.
+
 ![image](https://user-images.githubusercontent.com/111020934/185214925-a7aa636f-d716-42c9-8809-b75895b9cd82.png)
 
 Louise can plan to have a goal amount of upto $5000 for a successful campaign.
@@ -39,6 +42,7 @@ Louise can plan to have a goal amount of upto $5000 for a successful campaign.
 ### Challenges and Difficulties Encountered
 The data in the Excel had to be formatted and the column data had to be split to provide a better understanding.
 The range of goal values were created in a new sheet. When a Pivot table was created for that worksheet , the row labels had to be sorted manually to get a correct chart.
+
 ![image](https://user-images.githubusercontent.com/111020934/185217631-6ddeed7a-a466-4816-bc90-e432d91abbad.png)
 
 ## Results
